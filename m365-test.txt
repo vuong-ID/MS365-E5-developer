@@ -1,0 +1,5 @@
+Initial test for Microsoft 365 E5 Developer Program
+IT administrator
+MS102
+SC200
+...
